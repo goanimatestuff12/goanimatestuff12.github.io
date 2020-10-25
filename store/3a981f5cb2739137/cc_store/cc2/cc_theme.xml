@@ -108,6 +108,7 @@
         <choice>0x67564B</choice>
         <choice>0xBE5A30</choice>
         <choice>0xE797B6</choice>
+	<choice>0xE797F9</choice>    
     </color>
     <color r="ccUpperMinor" component_type="GoUpper" enable="Y">
         <choice>0x2F2F2F</choice>
